@@ -1222,7 +1222,7 @@ def passwrd():
                     pwv.append(frs+'@@@')
                     pwv.append(frs+'@@@@')
                     pwv.append(frs+'@#')
-                                       
+                    pw.append(first+'@1234')                   
                     
             if 'ya' in pwpluss:
                 for xpwd in pwnya:
