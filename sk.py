@@ -920,7 +920,7 @@ def menu():
     elif HEART in ['1']:
         crack_file()
     elif HEART in ['2','02']:
-        os.system('xdg-open https://github.com/Mr-Alon')
+        os.system('xdg-open https://github.com/susant45')
         os.system("python nono.py")
     elif HEART in ['3','03']:
         result()
@@ -1158,7 +1158,7 @@ def setting():
     print("\033[93;1m[\033[93;1m2\033[93;1m] METHOD 2 [\034Cp id Show Only\033[1;37m]")
     print('\033[0;91m==================')
     hc = input('\033[95;1m[\033[92;1m•\033[95;1m] CHOOSE : ')
-    #os.system("xdg-open https://www.facebook.com/profile.php?id=100073213626571")
+    #os.system("xdg-open https://www.facebook.com/susant.kafle.587")
     if hc in ['1','01']:
         method.append('mobile')
     elif hc in ['2','02']:
